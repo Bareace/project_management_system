@@ -1,0 +1,12 @@
+C:\Users\baris\OneDrive\Masaüstü\ProjectManagementSystem\Project_management_system\bin\Debug\Project_management_system.exe.config
+C:\Users\baris\OneDrive\Masaüstü\ProjectManagementSystem\Project_management_system\bin\Debug\Project_management_system.exe
+C:\Users\baris\OneDrive\Masaüstü\ProjectManagementSystem\Project_management_system\bin\Debug\Project_management_system.pdb
+C:\Users\baris\OneDrive\Masaüstü\ProjectManagementSystem\Project_management_system\obj\Debug\Project_management_system.csproj.AssemblyReference.cache
+C:\Users\baris\OneDrive\Masaüstü\ProjectManagementSystem\Project_management_system\obj\Debug\Project_management_system.AdminPanel.resources
+C:\Users\baris\OneDrive\Masaüstü\ProjectManagementSystem\Project_management_system\obj\Debug\Project_management_system.EmployeeForm.resources
+C:\Users\baris\OneDrive\Masaüstü\ProjectManagementSystem\Project_management_system\obj\Debug\Project_management_system.LoginPanel.resources
+C:\Users\baris\OneDrive\Masaüstü\ProjectManagementSystem\Project_management_system\obj\Debug\Project_management_system.Properties.Resources.resources
+C:\Users\baris\OneDrive\Masaüstü\ProjectManagementSystem\Project_management_system\obj\Debug\Project_management_system.csproj.GenerateResource.cache
+C:\Users\baris\OneDrive\Masaüstü\ProjectManagementSystem\Project_management_system\obj\Debug\Project_management_system.csproj.CoreCompileInputs.cache
+C:\Users\baris\OneDrive\Masaüstü\ProjectManagementSystem\Project_management_system\obj\Debug\Project_management_system.exe
+C:\Users\baris\OneDrive\Masaüstü\ProjectManagementSystem\Project_management_system\obj\Debug\Project_management_system.pdb
